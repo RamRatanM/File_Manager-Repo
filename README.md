@@ -5,14 +5,14 @@ Ram's File Manager is a simple yet powerful file management application built us
 
 Features:
 
-Open files: Easily open any file using the file manager interface.
-Copy files: Copy files from one location to another with a simple click.
-Delete files: Delete unwanted files securely from your system.
-Rename files: Rename files and maintain better organization in your file system.
-Create folders: Quickly create new folders to organize your files.
-Remove folders: Remove empty folders from your system.
-List files: View a list of files in a directory for easy reference.
-Search files: Search for files by name within your file system.
+1. Open files: Easily open any file using the file manager interface.
+2. Copy files: Copy files from one location to another with a simple click.
+3. Delete files: Delete unwanted files securely from your system.
+4. Rename files: Rename files and maintain better organization in your file system.
+5. Create folders: Quickly create new folders to organize your files.
+6. Remove folders: Remove empty folders from your system.
+7. List files: View a list of files in a directory for easy reference.
+8. Search files: Search for files by name within your file system.
 
 Instructions:
 
